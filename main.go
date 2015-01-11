@@ -28,7 +28,7 @@ func main() {
 
 	if err != nil {
  		log.Error("Error")
-    }
+ 	}
 
 	//var body string
 	//json.NewDecoder(res.Body).Decode(&body)
